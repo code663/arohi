@@ -17,7 +17,7 @@ start_txt = """**
  ⦿ ғᴀᴄᴇ ᴀɴʏ ᴘʀᴏʙʟᴇᴍ ᴅᴍ ᴍᴇ !
 **"""
 
-@bot.on_message(filters.command(["rrepo"], prefixes=["/", "!", "%", ",", "", ".", "@", "#"]))
+@bot.on_message(filters.command(["hehehrhbrbrbroq"], prefixes=["/", "!", "%", ",", "", ".", "@", "#"]))
 async def start(_, msg):
     buttons = [
         [ 
